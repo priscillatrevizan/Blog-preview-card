@@ -71,4 +71,4 @@ Ao desenvolver este projeto, pude rever conceitos e praticar meu conhecimento em
 
 O projeto foi publicado utilizando Vercel, uma ferramenta eficiente para deploy de aplicações React.
 
-E sua versão online pode ser vista [aqui]().
+E sua versão online pode ser vista [aqui](https://blog-preview-card-kohl-six.vercel.app/).
